@@ -1,0 +1,15 @@
+{
+    "name": "webhat/demounittesting",
+    "description": "description_text",
+    "minimum-stability": "stable",
+    "authors": [
+        {
+            "name": "Daniël W. Crompton",
+            "email": "daniel.crompton@gmail.com"
+        }
+    ],
+    "require": {
+        "phpunit/phpunit": "4.0.14",
+        "rogeriopradoj/codeigniter-skeleton": "1.0.0"
+    }
+}
